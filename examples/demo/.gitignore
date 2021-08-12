@@ -1,0 +1,8 @@
+builds/
+logs/
+exceptions/
+smaug/dragontile/
+smaug/draco/samples/
+smaug/color/example/
+*.tiled-session
+tmp/

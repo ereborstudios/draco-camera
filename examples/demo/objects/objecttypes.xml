@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objecttypes>
+ <objecttype name="star" color="#a0a0a4">
+  <property name="foo" type="string" default="1"/>
+ </objecttype>
+</objecttypes>
